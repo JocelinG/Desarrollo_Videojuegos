@@ -1,0 +1,48 @@
+{
+    "anims": [
+        {
+            "key": "eri_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "eri",
+                    "frame": "patada_1"
+                }
+            ]
+        },
+        {
+            "key": "eri_patada",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "eri",
+                    "frame": "patada_1"
+                },
+                {
+                    "key": "eri",
+                    "frame": "patada_2"
+                },
+                {
+                    "key": "eri",
+                    "frame": "patada_3"
+                },
+                {
+                    "key": "eri",
+                    "frame": "patada_4"
+                },
+                {
+                    "key": "eri",
+                    "frame": "patada_5"
+                },
+                {
+                    "key": "eri",
+                    "frame": "patada_6"
+                }
+            ]
+        }
+    ]
+}

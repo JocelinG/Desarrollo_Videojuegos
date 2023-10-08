@@ -1,0 +1,136 @@
+{
+    "anims": [
+        {
+            "key": "marco_cuchillada",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "marco",
+                    "frame": "cuchillada_1"
+                },
+                {
+                    "key": "marco",
+                    "frame": "cuchillada_2"
+                },
+                {
+                    "key": "marco",
+                    "frame": "cuchillada_3"
+                },
+                {
+                    "key": "marco",
+                    "frame": "cuchillada_4"
+                },
+                {
+                    "key": "marco",
+                    "frame": "cuchillada_5"
+                },
+                {
+                    "key": "marco",
+                    "frame": "cuchillada_6"
+                },
+                {
+                    "key": "marco",
+                    "frame": "cuchillada_7"
+                },
+                {
+                    "key": "marco",
+                    "frame": "cuchillada_8"
+                },
+                {
+                    "key": "marco",
+                    "frame": "cuchillada_9"
+                },
+                {
+                    "key": "marco",
+                    "frame": "cuchillada_10"
+                }
+            ]
+        },
+        {
+            "key": "marco_barrida",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "marco",
+                    "frame": "barrida_1"
+                },
+                {
+                    "key": "marco",
+                    "frame": "barrida_2"
+                },
+                {
+                    "key": "marco",
+                    "frame": "barrida_3"
+                },
+                {
+                    "key": "marco",
+                    "frame": "barrida_4"
+                },
+                {
+                    "key": "marco",
+                    "frame": "barrida_5"
+                },
+                {
+                    "key": "marco",
+                    "frame": "barrida_6"
+                },
+                {
+                    "key": "marco",
+                    "frame": "barrida_7"
+                },
+                {
+                    "key": "marco",
+                    "frame": "barrida_8"
+                },
+                {
+                    "key": "marco",
+                    "frame": "barrida_9"
+                },
+                {
+                    "key": "marco",
+                    "frame": "barrida_10"
+                }
+            ]
+        },
+        {
+            "key": "marco_smile",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "marco",
+                    "frame": "marco_smile_1"
+                },
+                {
+                    "key": "marco",
+                    "frame": "marco_smile_2"
+                },
+                {
+                    "key": "marco",
+                    "frame": "marco_smile_3"
+                },
+                {
+                    "key": "marco",
+                    "frame": "marco_smile_4"
+                }
+            ]
+        },
+        {
+            "key": "marco_idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "marco",
+                    "frame": "marco_smile_4"
+                }
+            ]
+        }
+    ]
+}
